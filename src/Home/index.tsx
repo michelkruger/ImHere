@@ -1,6 +1,6 @@
+import { useState } from 'react';
 import { Text, View, TextInput, TouchableOpacity, FlatList, Alert } from 'react-native';
 import { styles } from './styles'
-import { useState } from 'react';
 
 import { Participant } from '../components/Participant';
 
